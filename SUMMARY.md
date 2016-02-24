@@ -9,4 +9,5 @@
 * [Fallacy #6: Bandwagoning](fallacy_6_bandwagoning.md)
 * [Fallacy #7: False Dilemma](fallacy_7_false_dilemma.md)
 * Fallacy #8: Card Stacking
+* Fallacy #9: Misleading Comparisons
 
