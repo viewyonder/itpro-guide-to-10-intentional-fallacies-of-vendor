@@ -10,4 +10,5 @@
 * [Fallacy #7: False Dilemma](fallacy_7_false_dilemma.md)
 * Fallacy #8: Card Stacking
 * Fallacy #9: Misleading Comparisons
+* Fallacy #10: Hasty Generalization
 
