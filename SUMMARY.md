@@ -5,5 +5,5 @@
 * [Fallacy #2: Insulting Someone's Character](fallacy_2_insulting_someones_character.md)
 * [Fallacy #3: Begging the Question](fallacy_3_begging_the_question.md)
 * [Fallacy #4: Non Sequitur](fallacy_4_non-sequitur.md)
-* Fallacy #5: False Cause and Effect
+* [Fallacy #5: False Cause and Effect](fallacy_5_false_cause_and_effect.md)
 
