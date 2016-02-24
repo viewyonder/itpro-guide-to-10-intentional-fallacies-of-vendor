@@ -10,6 +10,7 @@ There are other names for this fallacy:
 * false binary
 * black-and-white thinking
 * bifurcation
+* oversimplification
 
 The false dilemma is used in the technology industry as a way to spread fear, uncertainty and doubt (FUD).
 
