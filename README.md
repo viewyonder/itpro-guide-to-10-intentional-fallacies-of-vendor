@@ -3,7 +3,7 @@ The IT Pro Guide: 10 Intentional Fallacies in Vendor Marketing
 
 How does a 21st Century IT Pro separate signal from noise in the constant bombardment of marketing messages? The answer is understanding [fallacies](https://en.wikipedia.org/wiki/Fallacy), which originate from 3rd century BC, from the Greek philosopher, [Aristotle](https://en.wikipedia.org/wiki/Aristotle).
 
-Aristotle use fallacies to understand and rebut what people said in their arguments. A fallacy is the use of invalid or otherwise faulty reasoning, or "wrong moves", in the construction of an argument. 
+Aristotle used fallacies to understand and rebut what people said in their arguments. A fallacy is the use of invalid or otherwise faulty reasoning, or "wrong moves", in the construction of an argument. 
 
 Fallacies are common in the consumer media and it is up to the viewer to “detect them, so you’re not taken in by them” ([Vaughn, 169](http://ikindalikelanguages.com/labs/lesson.php?id=208)). In advertisements “Fallacies are often beguiling; they seem plausible. Time and again they are psychologically persuasive."
 
