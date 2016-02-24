@@ -7,4 +7,5 @@
 * [Fallacy #4: Non Sequitur](fallacy_4_non-sequitur.md)
 * [Fallacy #5: False Cause and Effect](fallacy_5_false_cause_and_effect.md)
 * [Fallacy #6: Bandwagoning](fallacy_6_bandwagoning.md)
+* Fallacy #7: False Dilemma
 
