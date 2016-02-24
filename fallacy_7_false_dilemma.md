@@ -37,3 +37,10 @@ A survey might reveal that "50% of CIOs are thinking of moving to Public Cloud".
 
 Rarely is the underyling survey methodology available, so whilst it is true that without data you just have an opinion, it is also true that with data you just have a bucket of unqualified and misunderstood opinions from people you don't know.
  
+### Morton's Fork
+
+Imagine if, whichever choice you made from two options, the answer was always the same vendor.
+
+This is true of so-called hybrid-cloud vendors who claim that people choose one cloud option or the other, but either way this vendor has the answer.
+
+The reallity is that there are more than two needs that the audience has, in this case cloud is not made up of two options. AWS have over fifty cloud services whereas a hybrid cloud vendor will have a fraction of those.
