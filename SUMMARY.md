@@ -6,5 +6,5 @@
 * [Fallacy #3: Begging the Question](fallacy_3_begging_the_question.md)
 * [Fallacy #4: Non Sequitur](fallacy_4_non-sequitur.md)
 * [Fallacy #5: False Cause and Effect](fallacy_5_false_cause_and_effect.md)
-* Fallacy #6: Bandwagoning
+* [Fallacy #6: Bandwagoning](fallacy_6_bandwagoning.md)
 
