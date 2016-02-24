@@ -12,10 +12,6 @@ A Red Herring is known by many other names:
 
 ### Examples outside of the tech industry
 
-A: Does the law allow me to do that?
-
-B: The law should allow you to do that because this and that.
-
 Sir Arthur Conan Doyle’s Sherlock Holmes: Hound of the Baskervilles presents a classic example of a red herring. The readers are thrown off the real murderer and start suspecting the escaped “convict” and “Barrymore”. In the end, however, the mystery is resolved by the unexpected confession of “Beryl” that her husband “Stapleton” was the real culprit and was behind the whole mystery of the killer “Hound”.
 
 ## The Fake Expert Content
