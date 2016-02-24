@@ -6,6 +6,14 @@ A famous example:
 
 The rooster crows immediately before sunrise; therefore the rooster causes the sun to rise.
 
+Other types of this fallacy:
+
+* Confirmation bias
+* Superstition
+* Jumping to conclusions
+* Magical thinking
+* Cargo cult
+
 ### Fake It 'Till You Make It
 
 There is often a fight between vendors as to who was the originator of a market. We see this today in the Hyperconverged Infrastructure (HCI) market where early entrants are small companies and late-comers are large corporations.
